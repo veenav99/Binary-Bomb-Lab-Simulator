@@ -3,12 +3,6 @@
 #include "support.h"
 #include "phases.h"
 
-/* 
- * Note to self: Remember to erase this file so my victims will have no
- * idea what is going on, and so they will all blow up in a
- * spectaculary fiendish explosion. -- Dr. Evil 
- */
-
 FILE *infile;
 
 int main(int argc, char *argv[])
