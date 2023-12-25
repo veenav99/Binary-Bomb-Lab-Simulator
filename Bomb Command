@@ -9,9 +9,6 @@ int main(int argc, char *argv[])
 {
     char *input;
 
-    /* Note to self: remember to port this bomb to Windows and put a 
-     * fantastic GUI on it. */
-
     /* When run with no arguments, the bomb reads its input lines 
      * from standard input. */
     if (argc == 1) {  
